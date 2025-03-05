@@ -14,7 +14,7 @@ This repository contains a decentralized voting application that uses zero-knowl
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/zk-voting.git
+    git clone https://github.com/bilaljawed/zk-snark-voting.git
     cd zk-voting
     ```
 
