@@ -1,0 +1,19 @@
+{
+	"name": "zk-voting",
+	"version": "1.0.0",
+	"description": "A demo voting application with zk-SNARK proof verification using Hardhat and snarkjs.",
+	"scripts": {
+		"compile": "hardhat compile",
+		"test": "hardhat test",
+		"deploy": "hardhat run scripts/deploy.js --network localhost"
+	},
+	"author": "Your Name",
+	"license": "MIT",
+	"devDependencies": {
+		"@nomiclabs/hardhat-waffle": "^2.0.0",
+		"chai": "^4.3.4",
+		"ethereum-waffle": "^3.4.0",
+		"ethers": "^5.7.0",
+		"hardhat": "^2.12.0"
+	}
+}
